@@ -1,0 +1,27 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : 
+Content           : [{"address":"456 Medical Street, Test City","latitude":12.9716,"rating":4.5,"
+                    specialBrands":null,"type":"HOSPITAL","menu":null,"doctorAvailability":null,"
+                    specialFood":null,"lastUpdated":null,"reviews"...
+RawContent        : HTTP/1.1 200 
+                    Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+                    X-Content-Type-Options: nosniff
+                    X-XSS-Protection: 0
+                    Pragma: no-cache
+                    X-Frame-Options: DENY
+                    Transfer-Encodi...
+Forms             : {}
+Headers           : {[Vary, 
+                    Origin,Access-Control-Request-Method,Access-Control-Request-Headers], 
+                    [X-Content-Type-Options, nosniff], [X-XSS-Protection, 0], [Pragma, 
+                    no-cache]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 5101
+
+
+
