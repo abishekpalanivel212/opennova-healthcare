@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["jdk21", "maven"]
+
+[phases.install]
+cmds = ["cd backend && mvn clean package -DskipTests"]
+
+[start]
+cmd = "cd backend && java -jar target/backend-1.0.0.jar" 
